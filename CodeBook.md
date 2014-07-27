@@ -1,5 +1,7 @@
 =============================================================
-This Code Book describes all variables in the clean_data repo
+
+###This Code Book describes all variables in the clean_data.txt
+
 =============================================================
 
 This file gives a description of all variables contained in the 
@@ -10,12 +12,15 @@ estimate variables of the feature vector for each pattern:
 deviations are extracted in clean_data.txt/.csv while the average of each variable for each activity
 per subject is contained in clean_data2.txt/.csv. To obtain the full data set pls visit 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 ====================================================================================================
+
 ###clean_data.txt/csv contains 69 variables and 10299 observation
 
 ###The variables contained in clean_data.txt/csv are: 
 
 -----------------------------------------------------------------------------------------------
+
 * Subject: An id for the subject performing the activity.
 
 * Activity: A factor variables with 6 levels for the activities performed
@@ -31,9 +36,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 * Class: A factor variable with two levels indicating the group each measurement came from
 	* 1 - 'test'
 	* 2 - 'train'
+
 ---------------------------------------------------------------------------
 All variables below are quantitative variables
 ---------------------------------------------------------------------------
+
 * tBodyAcc_mean_X: Mean of total body acceleration measured in direction x
 
 * tBodyAcc_mean_Y: Mean of total body acceleration measured in direction Y
@@ -165,9 +172,12 @@ All variables below are quantitative variables
 * fBodyGyroJerkMag_mean: Mean of body angular velocity jerk magnitude frequency domain signals
 
 * fBodyGyroJerkMag_std: Standard Deviation of body angular velocity jerk magnitude frequency domain signals
+
 ========================================================================================
 
+-Olusoji O. D.
 
+-University of Ibadan, Oyo State. Nigeria.
 
 
 

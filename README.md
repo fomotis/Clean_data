@@ -1,5 +1,5 @@
 ===============================================
-###This Repo contains extracted and cleant
+###This Repo contains extracted and cleaned
 ###data sets from the UCI HAR Dataset alongside
 ###the R code used for the extraction and Cleaning
 ===============================================
@@ -22,3 +22,10 @@ is read for proper understanding of the files in the repo.
 * clean_data2.csv: A csv version of clean_data2.csv
 
 * CodeBook.md: A detailed description of each variable in the data sets above
+
+=============================================================================
+
+
+-Olusoji O. D.
+
+-University of Ibadan, Oyo State. Nigeria.
